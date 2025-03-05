@@ -1,0 +1,6 @@
+'''
+preamble: This project implements a recommendation system using various data structures such as HashMap, Trie, and MaxHeap. 
+The system allows users to add products, record interactions between users and products, and get product recommendations based on user interactions. 
+It also supports searching for products by name or category and displaying all interactions.
+
+'''
